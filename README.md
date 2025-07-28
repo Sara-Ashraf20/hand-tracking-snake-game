@@ -1,1 +1,1 @@
-# hand-tracking-snake-game
+🐍 Hand Tracking Snake Game
